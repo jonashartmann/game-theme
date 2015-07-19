@@ -1,12 +1,9 @@
+#!/usr/bin/env node
+
 /**
  * Game Theme Generator
  *
- * Generate a theme for your next game!
- *
- * Note: It works out-of-the-box as a module or CLI
- * Example:
- *			var theme = require('game-theme');
- *			console.log('Theme: ', theme);
+ * Simply randomly choose a theme from a pre-defined list.
  *
  * author: Jonas Hartmann <jonas.hartmann@ymail.com>
  * license: MIT
