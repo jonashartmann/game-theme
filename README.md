@@ -1,4 +1,4 @@
-# Game Theme Generator - NPM Module
+# Game Theme Generator
 Generate the theme of your next game!
 
 _Note: It works out-of-the-box as a CLI or module_
