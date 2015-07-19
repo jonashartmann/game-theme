@@ -3,6 +3,8 @@ Generate the theme of your next game!
 
 _Note: It works out-of-the-box as a CLI or module_
 
+[![NPM](https://nodei.co/npm/game-theme.png)](https://nodei.co/npm/game-theme/)
+
 # Command Line ``gametheme``
 
 ## Installation
