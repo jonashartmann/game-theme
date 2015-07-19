@@ -1,6 +1,6 @@
 {
   "name": "game-theme",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Generate a theme for your next game!",
   "main": "index.js",
   "scripts": {
