@@ -1,7 +1,20 @@
 # Game Theme Generator - NPM Module
 Generate the theme of your next game!
 
-_Note: It works out-of-the-box as a module or CLI_
+_Note: It works out-of-the-box as a CLI or module_
+
+# Command Line ``gametheme``
+
+## Installation
+
+	npm install game-theme --global
+
+## Usage
+
+	$> gametheme
+    Theme chosen: Crazy big weapon
+
+# Module
 
 ## Installation
 
@@ -12,7 +25,7 @@ _Note: It works out-of-the-box as a module or CLI_
 	var theme = require('game-theme');
 	console.log('Theme: ', theme);
 
-## Contribute
+# Contribute
 
 You have an awesome game theme to share?
 
